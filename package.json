@@ -1,0 +1,19 @@
+{
+  "name": "omnistack11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": "https://github.com/AnthonyAlmeida-exe/omnistack11.git",
+  "author": "Anthony Almeida <anthony.almeida@trinitysolucoes.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.20.13",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
